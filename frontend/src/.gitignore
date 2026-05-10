@@ -1,0 +1,6 @@
+# Ignore the assets folder
+/src/assets/
+
+# Ignore the .env file (always keep this hidden!)
+.env
+src/.env
